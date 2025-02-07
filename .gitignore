@@ -1,0 +1,23 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs/
+/*.log
+*.log
+
+# Environment variables
+.env
+
+# TypeScript build output
+/dist/
+/build/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Ignore coverage reports (if you use testing tools like Jest)
+coverage/
