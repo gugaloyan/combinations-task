@@ -83,7 +83,7 @@ POST /api/generate
 ```json
 {
   "items": ["A", "B", "C"],
-  "combinations": [["A", "B"], ["A", "C"], ["B", "C"]],
+  "combinations": [["A1", "B2"], ["A2", "C1"], ["B1", "C2"]],
   "totalCombinations": 3,
   "createdAt": "2025-02-07T12:00:00.000Z"
 }
